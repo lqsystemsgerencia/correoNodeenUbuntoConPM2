@@ -1,3 +1,3 @@
 #!/bin/bash
-
-pm2 start api-ws-ts-video-yt/iniciarAplicacionWhatsappApp.sh
+cd api-ws-ts-video-yt
+pm2 start iniciarAplicacionWhatsappApp.sh
