@@ -1,2 +1,3 @@
+#!/bin/bash
 
-iniciarAplicacionWhatsappApp.sh
+pnpm run dev
